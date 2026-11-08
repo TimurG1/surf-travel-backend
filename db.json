@@ -1,0 +1,1181 @@
+{
+  "countries": [
+    {
+      "id": "portugal",
+      "name": "Португалія",
+      "nameEn": "Portugal",
+      "continent": "Європа"
+    },
+    {
+      "id": "morocco",
+      "name": "Марокко",
+      "nameEn": "Morocco",
+      "continent": "Африка"
+    },
+    {
+      "id": "france",
+      "name": "Франція",
+      "nameEn": "France",
+      "continent": "Європа"
+    },
+    {
+      "id": "indonesia",
+      "name": "Індонезія",
+      "nameEn": "Indonesia",
+      "continent": "Азія"
+    },
+    {
+      "id": "sri-lanka",
+      "name": "Шрі-Ланка",
+      "nameEn": "Sri Lanka",
+      "continent": "Азія"
+    },
+    {
+      "id": "philippines",
+      "name": "Філіппіни",
+      "nameEn": "Philippines",
+      "continent": "Азія"
+    },
+    {
+      "id": "costa-rica",
+      "name": "Коста-Рика",
+      "nameEn": "Costa Rica",
+      "continent": "Америка"
+    },
+    {
+      "id": "mexico",
+      "name": "Мексика",
+      "nameEn": "Mexico",
+      "continent": "Америка"
+    },
+    {
+      "id": "usa",
+      "name": "США",
+      "nameEn": "United States",
+      "continent": "Америка"
+    },
+    {
+      "id": "australia",
+      "name": "Австралія",
+      "nameEn": "Australia",
+      "continent": "Океанія"
+    },
+    {
+      "id": "south-africa",
+      "name": "ПАР",
+      "nameEn": "South Africa",
+      "continent": "Африка"
+    },
+    {
+      "id": "spain",
+      "name": "Іспанія",
+      "nameEn": "Spain",
+      "continent": "Європа"
+    },
+    {
+      "id": "maldives",
+      "name": "Мальдіви",
+      "nameEn": "Maldives",
+      "continent": "Азія"
+    }
+  ],
+  "categories": [
+    {
+      "id": "surf-camp",
+      "name": "Серф-кемпи",
+      "description": "Регіони, де зручно жити у серф-кемпі: проживання, дошки, інструктори й спільнота."
+    },
+    {
+      "id": "surf-yoga",
+      "name": "Surf & Yoga",
+      "description": "Серф у поєднанні з йогою, джунглями й неспішним ритмом життя."
+    },
+    {
+      "id": "group",
+      "name": "Групи",
+      "description": "Регіони для компаній і команд: великі кемпи, спільні програми та вечори на весь гурт."
+    },
+    {
+      "id": "surf-lodge",
+      "name": "Surf Lodge",
+      "description": "Камерні лоджі біля споту: домашня атмосфера, невеликі групи й серф просто від порога."
+    },
+    {
+      "id": "surf-resort",
+      "name": "Surf Resort",
+      "description": "Курорти з комфортним проживанням, басейном і серфом поруч: відпочинок із сервісом готельного рівня."
+    },
+    {
+      "id": "boat-trip",
+      "name": "Boat Trip",
+      "description": "Серф-тури на яхті чи катері до віддалених хвиль, куди не дістатися з берега."
+    },
+    {
+      "id": "junior",
+      "name": "Junior",
+      "description": "Програми для дітей і підлітків: безпечне дно, дитячі групи й інструктори, які вміють працювати з юними серферами."
+    },
+    {
+      "id": "adventures",
+      "name": "Adventures",
+      "description": "Подорожі з пригодами: серф у дикій природі, роуд-трипи й маршрути поза туристичними стежками."
+    },
+    {
+      "id": "family-trip",
+      "name": "Family Trip",
+      "description": "Сімейний відпочинок: безпечні пляжі, зручна інфраструктура й заняття для всіх вікових груп."
+    }
+  ],
+  "destinations": [
+    {
+      "id": "peniche",
+      "name": "Peniche — Supertubos & Baleal",
+      "countryId": "portugal",
+      "city": "Пеніше",
+      "region": "Центральний регіон",
+      "categoryId": "surf-camp",
+      "shortDescription": "Серф-столиця Португалії з хвилею Supertubos і десятками кемпів.",
+      "description": "Півострів Пеніше виходить в океан з двох боків, тому майже завжди знайдеться пляж із чистою хвилею. Поруч розташовані й потужні піщані труби Supertubos, і м’які пляжі для новачків. До Лісабона близько години-півтори дороги.",
+      "coordinates": {
+        "lat": 39.36,
+        "lng": -9.38
+      },
+      "difficulty": 3,
+      "priceLevel": 2,
+      "bestMonths": [3, 4, 9, 10, 11],
+      "features": [
+        "Знаменита хвиля Supertubos",
+        "Хвилі для різного рівня за кілька хвилин одна від одної",
+        "Багато кемпів і шкіл на будь-який бюджет",
+        "Близько до Лісабона"
+      ],
+      "image": "https://plus.unsplash.com/premium_photo-1670591909199-bb4c81e5951b?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1531137338014-9cc6350cabf4?q=80&w=1443&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1615824984248-a09aa62fb040?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1728327510746-ca4b2e932a65?q=80&w=1025&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": true
+    },
+    {
+      "id": "nazare",
+      "name": "Nazaré",
+      "countryId": "portugal",
+      "city": "Назаре",
+      "region": "Центральний регіон",
+      "categoryId": "big-wave",
+      "shortDescription": "Місце, де океан створює одні з найбільших у світі хвилі.",
+      "description": "Підводний каньйон біля мису Прайя-ду-Норте підсилює зимові свелли, і хвилі тут сягають висоти багатоповерхівки. У воді це територія професійних big wave серферів, а всім іншим пропонується оглядовий майданчик біля форту й маяка.",
+      "coordinates": {
+        "lat": 39.6,
+        "lng": -9.07
+      },
+      "difficulty": 5,
+      "priceLevel": 2,
+      "bestMonths": [10, 11, 12, 1, 2],
+      "features": [
+        "Підводний каньйон підсилює хвилі",
+        "Сезон гігантських хвиль — з жовтня до лютого",
+        "Оглядовий майданчик біля маяка",
+        "У воді лише для професіоналів"
+      ],
+      "image": "https://images.unsplash.com/photo-1714199939567-31358a84d1f8?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1582109256496-a53ee27a51ff?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1714199940033-add80d889a68?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1714199938473-56c294062a69?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": false
+    },
+    {
+      "id": "ericeira",
+      "name": "Ericeira",
+      "countryId": "portugal",
+      "city": "Ерісейра",
+      "region": "Лісабонський регіон",
+      "categoryId": "surf-camp",
+      "shortDescription": "Біле рибальське містечко й Всесвітній серф-заповідник із рифовими хвилями.",
+      "description": "Містечко приблизно за 50 км від Лісабона має кілька хвиль на відстані пішої ходи, від м’яких до серйозних рифових. Тут вчаться початківці, а просунуті серфери їдуть на відому праву Coxos.",
+      "coordinates": {
+        "lat": 38.96,
+        "lng": -9.42
+      },
+      "difficulty": 3,
+      "priceLevel": 2,
+      "bestMonths": [3, 4, 9, 10, 11],
+      "features": [
+        "Статус Всесвітнього серф-заповідника",
+        "Кілька хвиль біля міста для різного рівня",
+        "Затишне містечко з ресторанами морепродуктів",
+        "Лісабон за 50 хвилин"
+      ],
+      "image": "https://images.unsplash.com/photo-1627749635378-10e59a7b2116?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1519907362090-ac2b395e476b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1645651671558-5c95b845ef23?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1709653300633-b7897f841bd4?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": false
+    },
+    {
+      "id": "taghazout",
+      "name": "Taghazout",
+      "countryId": "morocco",
+      "city": "Тагазут",
+      "region": "Сус-Масса",
+      "categoryId": "surf-camp",
+      "shortDescription": "Рибальське село з довгими правими хвилями та серф-кемпами з йогою.",
+      "description": "Уздовж узбережжя на північ від Агадіра є ряд поінт-брейків, зокрема Anchor Point, що працюють у період зимових свеллів. Багато бюджетних кемпів, дружня атмосфера й тепліше за Європу взимку.",
+      "coordinates": {
+        "lat": 30.54,
+        "lng": -9.71
+      },
+      "difficulty": 3,
+      "priceLevel": 1,
+      "bestMonths": [10, 11, 12, 1, 2, 3],
+      "features": [
+        "Anchor Point — довга права хвиля",
+        "Сезон із жовтня до березня",
+        "Бюджетні кемпи з йогою",
+        "Прямі рейси до Агадіра з Європи"
+      ],
+      "image": "https://images.unsplash.com/photo-1538053367502-742497073841?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1763146741418-a7dd78c2136c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1706007473856-14c727df7da5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1617040969450-19109c62a563?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": false
+    },
+    {
+      "id": "imsouane",
+      "name": "Imsouane",
+      "countryId": "morocco",
+      "city": "Імсуан",
+      "region": "Сус-Масса",
+      "categoryId": "surf-camp",
+      "shortDescription": "Одна з найдовших хвиль Африки для довгих проїздів на лонгборді.",
+      "description": "Невелике містечко між Агадіром і Ессувейрою має дві хвилі в бухті: The Bay та Cathedrals. Довгі м’які праві хвилі дають змогу проїхати сотні метрів і підходять тим, хто вже стоїть на дошці.",
+      "coordinates": {
+        "lat": 30.84,
+        "lng": -9.82
+      },
+      "difficulty": 2,
+      "priceLevel": 1,
+      "bestMonths": [10, 11, 12, 1, 2, 3, 4],
+      "features": [
+        "Довгі м’які хвилі для лонгборду",
+        "Тихе містечко без нічного життя",
+        "Хороше місце для прогресу після перших уроків",
+        "Берберська кухня й тажини"
+      ],
+      "image": "https://images.unsplash.com/photo-1536868313473-7480e7c169f8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1697145808130-dfc61fcdf820?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://unsplash.com/photos/a-blue-building-with-a-surfboard-in-the-doorway-LDFCnWK6nmU",
+        "https://images.unsplash.com/photo-1742487891376-33745589d15c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": false
+    },
+    {
+      "id": "hossegor",
+      "name": "Hossegor",
+      "countryId": "france",
+      "city": "Осегор",
+      "region": "Нова Аквітанія",
+      "categoryId": "iconic-spot",
+      "shortDescription": "Потужні піщані труби Атлантики й серф-культура Європи.",
+      "description": "Піщані банки La Gravière та інші формують порожнисті швидкі хвилі, які не раз приймали етапи світового туру. Поруч сосновий ліс, велодоріжки та магазини серф-брендів.",
+      "coordinates": {
+        "lat": 43.66,
+        "lng": -1.44
+      },
+      "difficulty": 4,
+      "priceLevel": 3,
+      "bestMonths": [9, 10, 11],
+      "features": [
+        "Піщані труби La Gravière",
+        "Пік сезону — осінь",
+        "Серф-бренди та магазини",
+        "Велодоріжки соснового лісу"
+      ],
+      "image": "https://images.unsplash.com/photo-1537890227200-9242fb416f3a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1537370687951-ece532032a03?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1599468408408-83cd67eedb24?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1608384328518-4d0403b81fd7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": true
+    },
+    {
+      "id": "biarritz",
+      "name": "Biarritz",
+      "countryId": "france",
+      "city": "Біарріц",
+      "region": "Нова Аквітанія",
+      "categoryId": "surf-school",
+      "shortDescription": "Колиска європейського серфінгу й м’які хвилі в елегантному курортному місті.",
+      "description": "Пляжі Côte des Basques та Grande Plage дають повільні хвилі для лонгборду й навчання. Окрім серфінгу, тут курортна архітектура, баскська кухня та близькість до Іспанії.",
+      "coordinates": {
+        "lat": 43.48,
+        "lng": -1.56
+      },
+      "difficulty": 2,
+      "priceLevel": 3,
+      "bestMonths": [6, 7, 8, 9, 10],
+      "features": [
+        "Вважається колискою серфінгу в Європі",
+        "Лонгборд-хвилі та багато шкіл",
+        "Баскська кухня й піншоси",
+        "Сан-Себастьян поруч"
+      ],
+      "image": "https://images.unsplash.com/photo-1666465622777-66e2218ddc49?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1603061624410-810aa248dd19?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1728646896216-037a709233a1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1760032989129-eb0f9ae41bbd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": false
+    },
+    {
+      "id": "uluwatu",
+      "name": "Uluwatu",
+      "countryId": "indonesia",
+      "city": "Улувату",
+      "region": "Балі",
+      "categoryId": "iconic-spot",
+      "shortDescription": "Легендарні рифові хвилі під скелями на півдні Балі.",
+      "description": "Під високими скелями розташовано кілька рифових хвиль, які працюють у сухий сезон: Racetrack, Temples і Outside Corner. До води спускаються через печеру, а швидка потужна хвиля підходить лише впевненим у собі серферам.",
+      "coordinates": {
+        "lat": -8.83,
+        "lng": 115.08
+      },
+      "difficulty": 4,
+      "priceLevel": 2,
+      "bestMonths": [5, 6, 7, 8, 9],
+      "features": [
+        "Вхід у воду через печеру",
+        "Сухий сезон — травень–вересень",
+        "Захід сонця в барі Single Fin",
+        "Лише для досвідчених у воді"
+      ],
+      "image": "https://images.unsplash.com/photo-1588625224664-a561c1f5f619?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1596273214323-a8486cce7c9b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1591624197700-6fc997314981?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/flagged/photo-1565065550129-9d08baa3e42c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": true
+    },
+    {
+      "id": "canggu",
+      "name": "Canggu",
+      "countryId": "indonesia",
+      "city": "Чангу",
+      "region": "Балі",
+      "categoryId": "surf-yoga",
+      "shortDescription": "Серф, йога й кав’ярні: зручна база для першої подорожі на Балі.",
+      "description": "Пляжі Batu Bolong, Echo Beach та Old Man’s пропонують хвилі різного рівня. У містечку багато йога-студій, коворкінгів і кав’ярень, тому це популярне місце серед тих, хто поєднує серфінг із віддаленою роботою.",
+      "coordinates": {
+        "lat": -8.65,
+        "lng": 115.13
+      },
+      "difficulty": 2,
+      "priceLevel": 2,
+      "bestMonths": [4, 5, 6, 7, 8, 9, 10],
+      "features": [
+        "Batu Bolong для лонгборду й новачків",
+        "Йога та веллнес",
+        "Коворкінги й кав’ярні",
+        "Багато варіантів житла"
+      ],
+      "image": "https://images.unsplash.com/photo-1598145136670-e4ada43de5b3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1666261012387-3b8d48975c08?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1592065289359-7f20aec44239?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1578990628400-94f031afbe3d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": true
+    },
+    {
+      "id": "weligama",
+      "name": "Weligama",
+      "countryId": "sri-lanka",
+      "city": "Веліґама",
+      "region": "Південна провінція",
+      "categoryId": "surf-school",
+      "shortDescription": "М’яка піщана бухта: найкраще місце на острові для перших хвиль.",
+      "description": "Довга бухта з пологими хвилями, піщаним дном і теплою водою. У сезон тут десятки шкіл та прокатів, а неподалік є старе місто Галле й гарні пляжі.",
+      "coordinates": {
+        "lat": 5.97,
+        "lng": 80.43
+      },
+      "difficulty": 1,
+      "priceLevel": 1,
+      "bestMonths": [11, 12, 1, 2, 3, 4],
+      "features": [
+        "Тепла вода близько +28 °C",
+        "Піщане дно й пологі хвилі",
+        "Десятки шкіл і прокатів",
+        "Старе місто Галле поруч"
+      ],
+      "image": "https://images.unsplash.com/photo-1517054152729-266953a25d06?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1699210656807-1b75a3411e86?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1559038331-02f4bae92a3d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1552055569-d54ae89a11b7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": true
+    },
+    {
+      "id": "arugam-bay",
+      "name": "Arugam Bay",
+      "countryId": "sri-lanka",
+      "city": "Аругам-Бей",
+      "region": "Східна провінція",
+      "categoryId": "surf-camp",
+      "shortDescription": "Поінт-брейки на сході Шрі-Ланки з літнім сезоном.",
+      "description": "Містечко з десятками кемпів і кількома поінтами: Main Point, Whiskey Point та Peanut Farm. Сезон триває з травня по вересень, а навколо лагуни та національний парк Кумана.",
+      "coordinates": {
+        "lat": 6.84,
+        "lng": 81.84
+      },
+      "difficulty": 3,
+      "priceLevel": 1,
+      "bestMonths": [5, 6, 7, 8, 9],
+      "features": [
+        "Поінт-брейки різної складності",
+        "Сезон із травня до вересня",
+        "Сафарі й птахи в національному парку Кумана",
+        "Невимушена атмосфера"
+      ],
+      "image": "https://images.unsplash.com/photo-1503384861219-7f20f2f111cc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1517517224285-f3ff8462a3f9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1657946857561-f42916b66712?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1566965258247-6afc73812901?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": false
+    },
+    {
+      "id": "santa-teresa",
+      "name": "Santa Teresa",
+      "countryId": "costa-rica",
+      "city": "Санта-Тереса",
+      "region": "Нікоя, Пунтаренас",
+      "categoryId": "surf-yoga",
+      "shortDescription": "Піщані хвилі, джунглі й йога на безлюдних пляжах Нікої.",
+      "description": "Довгий пляж із багатьма піками, пальмами та джунглями. Стабільні хвилі, спокійні вечори, йога-студії та кемпи приваблюють тих, хто шукає баланс між серфінгом і відпочинком.",
+      "coordinates": {
+        "lat": 9.65,
+        "lng": -85.17
+      },
+      "difficulty": 3,
+      "priceLevel": 2,
+      "bestMonths": [12, 1, 2, 3, 4, 5],
+      "features": [
+        "Стабільні піщані хвилі",
+        "Йога й веллнес-ретріти",
+        "Джунглі просто біля пляжу",
+        "Заходи сонця над Тихим океаном"
+      ],
+      "image": "https://images.unsplash.com/photo-1733654128703-e089d1200a12?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1687526013766-a671f8f26484?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1689341403269-dcf55d328bd4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1688433339044-87e5ab8cabb1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": true
+    },
+    {
+      "id": "tamarindo",
+      "name": "Tamarindo",
+      "countryId": "costa-rica",
+      "city": "Тамаріндо",
+      "region": "Гуанакасте",
+      "categoryId": "surf-school",
+      "shortDescription": "Зручний вхід у серфінг: широка бухта й багато шкіл.",
+      "description": "Курортне містечко в Гуанакасте з тривалим сезоном, піщаними хвилями для початківців і відомими Playa Grande та Playa Negra поруч. Багато шкіл, ресторанів і зручна дорога з аеропорту Ліберії.",
+      "coordinates": {
+        "lat": 10.3,
+        "lng": -85.84
+      },
+      "difficulty": 2,
+      "priceLevel": 2,
+      "bestMonths": [12, 1, 2, 3, 4, 5, 6],
+      "features": [
+        "Багато шкіл і прокатів дощок",
+        "Playa Grande та Playa Negra поруч",
+        "Зручно добиратися з Ліберії",
+        "Жваве нічне життя"
+      ],
+      "image": "https://images.unsplash.com/photo-1709006393613-fecd943784e2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1728956211637-4d55c54218a1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1638215396055-bd3cf46690b6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1679497584190-cee237a5fed6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": false
+    },
+    {
+      "id": "waikiki",
+      "name": "Waikiki",
+      "countryId": "usa",
+      "city": "Вайкікі",
+      "region": "Оаху, Гаваї",
+      "categoryId": "surf-school",
+      "shortDescription": "Історичне місце серфінгу: довгі м’які хвилі в центрі Гонолулу.",
+      "description": "Рифові хвилі Canoes, Queens і Populars дають довгі пологі проїзди, особливо влітку під час південних свеллів. Дошки орендують прямо на пляжі, а поруч стоїть пам’ятник Дюку Каханамоку.",
+      "coordinates": {
+        "lat": 21.27,
+        "lng": -157.83
+      },
+      "difficulty": 1,
+      "priceLevel": 3,
+      "bestMonths": [5, 6, 7, 8, 9],
+      "features": [
+        "Історична колиска сучасного серфінгу",
+        "Літній південний свелл",
+        "Оренда дощок на пляжі",
+        "Місто Гонолулу поруч"
+      ],
+      "image": "https://images.unsplash.com/photo-1679166408049-307d146a160e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1547537352-ae90c682877e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1621573523533-0dfea4edd20f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1573523166835-3a3a34d27163?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": false
+    },
+    {
+      "id": "mavericks",
+      "name": "Mavericks",
+      "countryId": "usa",
+      "city": "Хаф-Мун-Бей",
+      "region": "Каліфорнія",
+      "categoryId": "big-wave",
+      "shortDescription": "Холодні гіганти за годину від Сан-Франциско.",
+      "description": "Рифова хвиля за кілька сотень метрів від берега в холодній воді, яка в сезон може сягати висоти будинку. Для катання потрібен досвід big wave та спеціальне спорядження, тому більшість приїжджає подивитися.",
+      "coordinates": {
+        "lat": 37.49,
+        "lng": -122.5
+      },
+      "difficulty": 5,
+      "priceLevel": 3,
+      "bestMonths": [11, 12, 1, 2, 3],
+      "features": [
+        "Холодна вода: потрібен товстий гідрокостюм",
+        "Сезон із листопада до березня",
+        "Лише для професіоналів",
+        "Сан-Франциско неподалік"
+      ],
+      "image": "https://images.unsplash.com/photo-1690835104892-94a176ec407e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/flagged/photo-1575555201693-7cd442b8023f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1613070561201-b0dccb982856?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1591164115502-09f4edf9f005?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": false
+    },
+    {
+      "id": "gold-coast",
+      "name": "Gold Coast — Snapper Rocks",
+      "countryId": "australia",
+      "city": "Голд-Кост",
+      "region": "Квінсленд",
+      "categoryId": "iconic-spot",
+      "shortDescription": "Ланцюг піщаних поінтів від Snapper Rocks до Burleigh Heads.",
+      "description": "Намивний пісок біля Snapper Rocks створив Superbank, одну з найдовших піщаних хвиль у світі, що тягнеться в бік Кірри. Тут зазвичай людно, а найкращий час — з лютого по травень.",
+      "coordinates": {
+        "lat": -28.17,
+        "lng": 153.55
+      },
+      "difficulty": 4,
+      "priceLevel": 3,
+      "bestMonths": [2, 3, 4, 5, 6],
+      "features": [
+        "Superbank — довгі трубчасті хвилі",
+        "Багато різних пляжів поруч",
+        "Високий рівень місцевих серферів",
+        "Розвинена туристична інфраструктура"
+      ],
+      "image": "https://images.unsplash.com/photo-1686007577372-c7cadfeb64ee?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1660098932627-451793db077e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1635978792499-1065ae7e1f05?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1617683537374-3d7f9f778723?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": false
+    },
+    {
+      "id": "byron-bay",
+      "name": "Byron Bay",
+      "countryId": "australia",
+      "city": "Байрон-Бей",
+      "region": "Новий Південний Уельс",
+      "categoryId": "surf-school",
+      "shortDescription": "М’які хвилі для навчання й атмосфера альтернативного містечка.",
+      "description": "Пляжі The Pass і Wategos мають довгі хвилі для лонгборду при помірних розмірах. Місто славиться фермерськими ринками, екологічною кухнею та маяком на мисі Байрон.",
+      "coordinates": {
+        "lat": -28.64,
+        "lng": 153.61
+      },
+      "difficulty": 2,
+      "priceLevel": 3,
+      "bestMonths": [2, 3, 4, 5, 6],
+      "features": [
+        "The Pass — довга хвиля для лонгборду",
+        "Маяк на мисі Байрон",
+        "Ринки й екологічна кухня",
+        "Часті зустрічі з дельфінами"
+      ],
+      "image": "https://images.unsplash.com/photo-1621841058209-dcb875c9b970?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1583225776893-8b24bf65f21b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1669098021713-71cb4b04d11f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1581132885085-02e91cf6e0cc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": false
+    },
+    {
+      "id": "jeffreys-bay",
+      "name": "Jeffreys Bay",
+      "countryId": "south-africa",
+      "city": "Джеффрейс-Бей",
+      "region": "Східний Кейп",
+      "categoryId": "iconic-spot",
+      "shortDescription": "Одна з найкращих правих хвиль світу з довгими швидкими стінками.",
+      "description": "Піщаний поінт Supertubes тягнеться на сотні метрів у сезон із червня до вересня й приймав етапи світового туру. Вода холодна, тож потрібен гідрокостюм, а щодо акул варто слухати місцевих.",
+      "coordinates": {
+        "lat": -34.05,
+        "lng": 24.92
+      },
+      "difficulty": 4,
+      "priceLevel": 1,
+      "bestMonths": [6, 7, 8, 9],
+      "features": [
+        "Supertubes — легендарна права хвиля",
+        "Сезон із червня до вересня",
+        "Гідрокостюм обов’язковий",
+        "Boneyards і Magna Tubes поруч"
+      ],
+      "image": "https://images.unsplash.com/photo-1530870110042-98b2cb110834?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1584091929886-369f195075a0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1588402459032-f9a57378baef?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1683529929372-b50a20a9d7e5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": false
+    },
+    {
+      "id": "muizenberg",
+      "name": "Muizenberg",
+      "countryId": "south-africa",
+      "city": "Кейптаун",
+      "region": "Західний Кейп",
+      "categoryId": "surf-school",
+      "shortDescription": "Найкраще місце Кейптауна для першого уроку серфінгу.",
+      "description": "Довгий піщаний пляж із пологими хвилями й барвистими пляжними будиночками. Тут багато шкіл і прокатів, а поруч кав’ярні. Вода холодна, а на пляжі діє програма Shark Spotters із прапорами.",
+      "coordinates": {
+        "lat": -34.1,
+        "lng": 18.47
+      },
+      "difficulty": 1,
+      "priceLevel": 1,
+      "bestMonths": [11, 12, 1, 2, 3, 4],
+      "features": [
+        "Пологі хвилі й піщане дно",
+        "Кольорові пляжні будиночки",
+        "Програма Shark Spotters",
+        "Близько до центру Кейптауна"
+      ],
+      "image": "https://images.unsplash.com/photo-1743181502892-17be1da39e8c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1651416875558-4d3a5fe51562?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1685022119378-653bf5c47125?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1727766015699-d41c2c86a907?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": false
+    },
+    {
+      "id": "sayulita",
+      "name": "Sayulita",
+      "countryId": "mexico",
+      "city": "Саюліта",
+      "region": "Наярит",
+      "categoryId": "surf-yoga",
+      "shortDescription": "Яскраве містечко з м’якими хвилями поруч із Пуерто-Вальярта.",
+      "description": "Невелика бухта з дружніми хвилями для новачків і лонгбордистів, а поруч є кілька хвиль для просунутих. Містечко славиться вуличним мистецтвом, фестивалями й йога-студіями.",
+      "coordinates": {
+        "lat": 20.87,
+        "lng": -105.44
+      },
+      "difficulty": 2,
+      "priceLevel": 1,
+      "bestMonths": [5, 6, 7, 8, 9, 10, 11],
+      "features": [
+        "Хвилі для початківців у бухті",
+        "Йога-студії та веллнес",
+        "Яскрава мексиканська атмосфера",
+        "Пуерто-Вальярта за годину"
+      ],
+      "image": "https://images.unsplash.com/photo-1597711002271-db32de5ff02b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1771905550689-2c939dea321b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1680026622691-21a8e5d88436?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1624315076202-d98e6277caf6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": false
+    },
+    {
+      "id": "puerto-escondido",
+      "name": "Puerto Escondido",
+      "countryId": "mexico",
+      "city": "Пуерто-Ескондідо",
+      "region": "Оахака",
+      "categoryId": "big-wave",
+      "shortDescription": "«Мексиканський Pipeline»: потужні піщані труби пляжу Сикатела.",
+      "description": "Пляж Zicatela постійно ловить сильні тихоокеанські свелли й формує глибокі піщані труби, які працюють із квітня по вересень. Для менш досвідчених є м’якші бухти Carrizalillo та Puerto Angelito.",
+      "coordinates": {
+        "lat": 15.86,
+        "lng": -97.07
+      },
+      "difficulty": 5,
+      "priceLevel": 1,
+      "bestMonths": [4, 5, 6, 7, 8, 9],
+      "features": [
+        "Zicatela — потужні піщані труби",
+        "Carrizalillo — м’якші хвилі для навчання",
+        "Сезон із квітня до вересня",
+        "Високий рівень місцевих серферів"
+      ],
+      "image": "https://images.unsplash.com/photo-1707738610342-accbdd20fbcf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1766517177788-caab1061bb2e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1591168445860-27157a786981?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1707738610338-deb68866acec?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": false
+    },
+    {
+      "id": "siargao",
+      "name": "Siargao — Cloud 9",
+      "countryId": "philippines",
+      "city": "Дженерал-Луна",
+      "region": "Сурігао-дель-Норте",
+      "categoryId": "iconic-spot",
+      "shortDescription": "Острів серфінгу з рифовою правою Cloud 9.",
+      "description": "Острів із пальмами, лагунами та відомою правою Cloud 9, яка приймала міжнародні змагання. Сезон хвиль триває з серпня до листопада, а поза сезоном тут тихо й недорого.",
+      "coordinates": {
+        "lat": 9.81,
+        "lng": 126.16
+      },
+      "difficulty": 4,
+      "priceLevel": 1,
+      "bestMonths": [8, 9, 10, 11],
+      "features": [
+        "Cloud 9 — відома рифова права",
+        "Лагуни та острови поруч",
+        "Пік сезону — вересень–листопад",
+        "Недорогий відпочинок поза сезоном"
+      ],
+      "image": "https://images.unsplash.com/photo-1710775401149-363aa5b8353c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1741717609409-73ab1cc9a3cd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1602086566212-ef4fcb89cff6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1736776256361-360f071c2540?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": true
+    },
+    {
+      "id": "baler",
+      "name": "Baler",
+      "countryId": "philippines",
+      "city": "Балер",
+      "region": "Аврора",
+      "categoryId": "surf-school",
+      "shortDescription": "Колиска філіппінського серфінгу з пляжем Sabang.",
+      "description": "Серфінг тут з’явився у 1970-х після зйомок фільму «Апокаліпсис сьогодні». Пляж Sabang має м’які піщані хвилі та школи, а біля міста є водоспади й рибальські селища.",
+      "coordinates": {
+        "lat": 15.76,
+        "lng": 121.57
+      },
+      "difficulty": 2,
+      "priceLevel": 1,
+      "bestMonths": [9, 10, 11, 12, 1, 2, 3],
+      "features": [
+        "Піщані хвилі для початківців",
+        "Сезон із вересня до березня",
+        "Водоспади Дітумабо поруч",
+        "Спокійний невеликий курорт"
+      ],
+      "image": "https://images.unsplash.com/photo-1646619279298-b31f9d3d93a3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1719639986042-464b87f741cc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1646619279408-73bc4a09fcc8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1463528857600-bb642f229674?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": false
+    },
+    {
+      "id": "corralejo",
+      "name": "Corralejo — Fuerteventura",
+      "countryId": "spain",
+      "city": "Корралехо",
+      "region": "Канарські острови",
+      "categoryId": "group",
+      "shortDescription": "Північ Фуертевентури: кілька спотів поруч і десятки серф-хаусів для компаній.",
+      "description": "Корралехо на півночі Фуертевентури добре підходить для великих компаній: поруч кілька спотів різної складності, а вітер і хвиля дозволяють обрати пляж на будь-який день. Після серфу — дюни природного парку, вечірні набережні та тепла погода майже цілий рік.",
+      "coordinates": {
+        "lat": 28.73,
+        "lng": -13.87
+      },
+      "difficulty": 2,
+      "priceLevel": 2,
+      "bestMonths": [10, 11, 12, 1, 2, 3],
+      "features": [
+        "Кілька спотів різної складності поруч",
+        "Багато серф-хаусів для групових поїздок",
+        "Дюни природного парку поруч із пляжами",
+        "Тепла погода майже цілий рік"
+      ],
+      "image": "https://images.unsplash.com/photo-1693324295239-55209f72baad?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1579004167079-3a5e6497795b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1720621928539-5e98c130cff4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1676567091599-9917abb87d74?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": true
+    },
+    {
+      "id": "hikkaduwa",
+      "name": "Hikkaduwa",
+      "countryId": "sri-lanka",
+      "city": "Хіккадува",
+      "region": "Південна провінція",
+      "categoryId": "group",
+      "shortDescription": "Бюджетний пляжний курорт із гостелами, рифовими хвилями й нічним життям.",
+      "description": "Хіккадува — один із перших серф-осередків Шрі-Ланки: тут багато гостелів і гестхаусів, а життя на пляжі не вщухає до пізнього вечора. Рифові хвилі розраховані на новачків і середній рівень, а між сесіями можна поплавати з черепахами.",
+      "coordinates": {
+        "lat": 6.14,
+        "lng": 80.1
+      },
+      "difficulty": 2,
+      "priceLevel": 1,
+      "bestMonths": [11, 12, 1, 2, 3, 4],
+      "features": [
+        "Рифові хвилі для різного рівня",
+        "Багато гостелів для компаній на бюджеті",
+        "Плавання з морськими черепахами",
+        "Жваве пляжне життя ввечері"
+      ],
+      "image": "https://images.unsplash.com/photo-1585863721866-36d8f9c0ff77?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1578405827843-dba01140f07c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1599742703126-6c7ac68dc157?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1491456804546-53e89147138e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": false
+    },
+    {
+      "id": "sagres",
+      "name": "Sagres",
+      "countryId": "portugal",
+      "city": "Сагреш",
+      "region": "Алгарве",
+      "categoryId": "surf-lodge",
+      "shortDescription": "Край Європи з маленькими лоджами на скелях і пляжами з різним напрямком хвиль.",
+      "description": "Сагреш розташований на південно-західному куті Португалії, тому тут завжди можна обрати пляж, захищений від вітру. Місто невелике й спокійне, а більшість лодж вміщує лише кількох гостей, тож атмосфера тут домашня. Поруч мис Сан-Вісенте й скелясті стежки вздовж океану.",
+      "coordinates": {
+        "lat": 37.01,
+        "lng": -8.94
+      },
+      "difficulty": 3,
+      "priceLevel": 2,
+      "bestMonths": [9, 10, 11, 3, 4],
+      "features": [
+        "Пляжі з різним напрямком хвилі поруч",
+        "Камерні лоджі на кілька гостей",
+        "Мис Сан-Вісенте й пішохідні маршрути",
+        "Тихе містечко без натовпів"
+      ],
+      "image": "https://images.unsplash.com/photo-1555954897-54105c5d4f64?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1604663822328-029edd35b324?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1631978695898-6d585b4a59ff?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1732660124168-04fc6b0c2147?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": false
+    },
+    {
+      "id": "tamraght",
+      "name": "Tamraght",
+      "countryId": "morocco",
+      "city": "Тамрагт",
+      "region": "Сус-Масса",
+      "categoryId": "surf-lodge",
+      "shortDescription": "Берберське село біля Агадіра з десятками невеликих серф-лодж і м’якими хвилями.",
+      "description": "Тамрагт — тихе село поруч із Тагазутом, де майже кожен будинок перетворено на невелику лоджу з терасою та сніданками. Поруч розташовано кілька спотів із довгими м’якими хвилями, що підходять і для навчання. До аеропорту Агадіра приблизно пів години дороги.",
+      "coordinates": {
+        "lat": 30.52,
+        "lng": -9.69
+      },
+      "difficulty": 2,
+      "priceLevel": 1,
+      "bestMonths": [10, 11, 12, 1, 2, 3],
+      "features": [
+        "Невеликі лоджі з терасами й сніданками",
+        "Довгі м’які хвилі поруч",
+        "Атмосфера берберського села",
+        "Близько до аеропорту Агадіра"
+      ],
+      "image": "https://images.unsplash.com/photo-1528244150396-0a5e9e3ec349?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1509891997545-fa6c1b3ff7ad?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1791193706449-a811075610df?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1761168955091-fb51c883b8db?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": false
+    },
+    {
+      "id": "thulusdhoo",
+      "name": "Thulusdhoo — Cokes & Chickens",
+      "countryId": "maldives",
+      "city": "Тулусду",
+      "region": "Північний Мале (Каафу)",
+      "categoryId": "surf-resort",
+      "shortDescription": "Острів із рифовими хвилями Cokes і Chickens та готельним сервісом.",
+      "description": "Тулусду розташований у північній частині атолу Мале. Це один із небагатьох островів, де серф-резорти працюють поруч із відомими рифовими хвилями Cokes і Chickens. Умови для досвідчених серферів, але інструктори й катери допомагають підібрати хвилю відповідно до рівня.",
+      "coordinates": {
+        "lat": 4.38,
+        "lng": 73.65
+      },
+      "difficulty": 4,
+      "priceLevel": 3,
+      "bestMonths": [3, 4, 5, 6, 7, 8, 9, 10],
+      "features": [
+        "Відомі рифові хвилі Cokes і Chickens",
+        "Резорти з басейнами й сервісом",
+        "Катер до спотів із резорту",
+        "Теплий океан цілий рік"
+      ],
+      "image": "https://images.unsplash.com/photo-1610389212830-0b4dc5820781?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1674236921249-31fb8e22e1c5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1732870812726-2251db34ef79?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1746692469541-ff947f3be3ae?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": true
+    },
+    {
+      "id": "jaco",
+      "name": "Jacó — Playa Hermosa",
+      "countryId": "costa-rica",
+      "city": "Хако",
+      "region": "Пунтаренас",
+      "categoryId": "surf-resort",
+      "shortDescription": "Курортне містечко з готелями й потужними піщаними хвилями Playa Hermosa поруч.",
+      "description": "Хако — одне з найзручніших місць Коста-Рики для відпочинку з комфортом: до столиці дві години дороги, багато готелів із басейнами та ресторанів. Просто в місті хвилі м’якші, а за кілька кілометрів на південь розташований Playa Hermosa з потужними піщаними трубами.",
+      "coordinates": {
+        "lat": 9.61,
+        "lng": -84.63
+      },
+      "difficulty": 3,
+      "priceLevel": 2,
+      "bestMonths": [5, 6, 7, 8, 9, 10, 11],
+      "features": [
+        "Готелі й резорти з басейнами",
+        "Playa Hermosa — потужні піщані труби",
+        "Прості хвилі для початківців у самому місті",
+        "Близько до столиці"
+      ],
+      "image": "https://images.unsplash.com/photo-1581356895057-6e5b6ac86ffe?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1615681666366-e8a35535fb72?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1601922369043-c1e6808d9102?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1616116240610-766de3d0926a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": false
+    },
+    {
+      "id": "mentawai",
+      "name": "Mentawai Islands",
+      "countryId": "indonesia",
+      "city": "Паданг",
+      "region": "Західна Суматра",
+      "categoryId": "boat-trip",
+      "shortDescription": "Архіпелаг із десятками світових хвиль, до яких добираються лише на яхті.",
+      "description": "Острови Ментавай розкидані в Індійському океані біля західного узбережжя Суматри, а відправлення на яхтах зазвичай відбувається з Паданга. Тут десятки рифових хвиль із чистою водою та мінімумом натовпу, а яхта слугує готелем на весь тур. Найкращий сезон збігається з сухим періодом.",
+      "coordinates": {
+        "lat": -2.1,
+        "lng": 99.6
+      },
+      "difficulty": 4,
+      "priceLevel": 3,
+      "bestMonths": [4, 5, 6, 7, 8, 9, 10],
+      "features": [
+        "Десятки рифових хвиль без натовпу",
+        "Яхта як готель на весь тур",
+        "Сезон із квітня до жовтня",
+        "Чиста вода й тропічні острови"
+      ],
+      "image": "https://images.unsplash.com/photo-1504682066999-90437076f0dd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1771120902853-c8558ff27f2b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1688263638792-2ede6002db03?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1724258391590-6cfdc2d783b4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": true
+    },
+    {
+      "id": "central-atolls",
+      "name": "Maldives — Central Atolls",
+      "countryId": "maldives",
+      "city": "Мулі",
+      "region": "Атол Мім",
+      "categoryId": "boat-trip",
+      "shortDescription": "Серф-чартер атолами Мальдів до рифових хвиль без натовпу.",
+      "description": "Центральні атоли Мальдів вважаються тихішою альтернативою спотам біля Мале. Яхта щодня підлаштовує маршрут під свелл і вітер, а між сесіями команда пропонує снорклінг і риболовлю. Тур підходить серферам із упевненим середнім рівнем.",
+      "coordinates": {
+        "lat": 2.93,
+        "lng": 73.57
+      },
+      "difficulty": 3,
+      "priceLevel": 3,
+      "bestMonths": [3, 4, 5, 6, 7, 8, 9, 10],
+      "features": [
+        "Маршрут щодня підбирають під свелл",
+        "Менше серферів, ніж біля Мале",
+        "Снорклінг і риболовля між сесіями",
+        "Тури на тиждень і довше"
+      ],
+      "image": "https://images.unsplash.com/photo-1559054109-b7f4761ce785?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1681471809562-75f912ac46fc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1681471809154-38fa3f5664c6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1754097452773-7eb798ffb808?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": false
+    },
+    {
+      "id": "lacanau",
+      "name": "Lacanau Océan",
+      "countryId": "france",
+      "city": "Лакано",
+      "region": "Нова Аквітанія",
+      "categoryId": "junior",
+      "shortDescription": "Довгий піщаний пляж і школи з дитячими програмами в соснових лісах.",
+      "description": "Лакано — курорт на атлантичному узбережжі Франції з широким піщаним пляжем і м’яким дном. Тут багато шкіл із групами для дітей і підлітків, а влітку працюють рятувальники. За пляжем починається сосновий ліс із велодоріжками, тож є чим зайнятися між заняттями.",
+      "coordinates": {
+        "lat": 45.0,
+        "lng": -1.2
+      },
+      "difficulty": 2,
+      "priceLevel": 2,
+      "bestMonths": [6, 7, 8, 9, 10],
+      "features": [
+        "Піщане дно й широкий пляж",
+        "Багато шкіл із дитячими групами",
+        "Рятувальні пости влітку",
+        "Велодоріжки в соснових лісах"
+      ],
+      "image": "https://images.unsplash.com/photo-1696771631766-0f1c0a275e1f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1668104548684-067e03d5c666?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1599693095894-f5e044a0386d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1668104468864-6acfed04accd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": false
+    },
+    {
+      "id": "margaret-river",
+      "name": "Margaret River",
+      "countryId": "australia",
+      "city": "Маргарет-Рівер",
+      "region": "Західна Австралія",
+      "categoryId": "adventures",
+      "shortDescription": "Дика берегова лінія, потужні хвилі й роуд-трип між виноробнями та печерами.",
+      "description": "Маргарет-Рівер — регіон на південному заході Австралії, де океанські свелли розбиваються об гранітні рифи й довгі поінти. Тут добре поєднувати серф із подорожжю автомобілем: між пляжами є печери, ліс і виноробні. Хвилі найкращі в період з березня по травень.",
+      "coordinates": {
+        "lat": -33.95,
+        "lng": 115.07
+      },
+      "difficulty": 4,
+      "priceLevel": 3,
+      "bestMonths": [3, 4, 5, 9, 10],
+      "features": [
+        "Потужні океанські хвилі й довгі поінти",
+        "Роуд-трип узбережжям",
+        "Печери, ліси й виноробні поруч",
+        "Найкращі хвилі навесні й восени"
+      ],
+      "image": "https://images.unsplash.com/photo-1560764541-7380d23da716?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1516116078823-42912b8916a5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1640504688135-4ecfc0bdc507?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1592366674806-137a7492c2f3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": true
+    },
+    {
+      "id": "scorpion-bay",
+      "name": "Scorpion Bay — San Juanico",
+      "countryId": "mexico",
+      "city": "Сан-Хуаніко",
+      "region": "Південна Нижня Каліфорнія",
+      "categoryId": "adventures",
+      "shortDescription": "Віддалена рибальська бухта з ланцюгом довгих правих поінтів у пустелі.",
+      "description": "Сан-Хуаніко розташований на пустельному узбережжі Баха-Каліфорнії, куди ведуть ґрунтові дороги. Основна принада бухти Скорпіон — послідовність довгих правих поінтів, які розбиваються один за одним. Інфраструктура мінімальна: кемпінги, невеликі готелі та ресторани біля берега.",
+      "coordinates": {
+        "lat": 26.24,
+        "lng": -112.46
+      },
+      "difficulty": 3,
+      "priceLevel": 2,
+      "bestMonths": [5, 6, 7, 8, 9, 10],
+      "features": [
+        "Ланцюг довгих правих поінтів",
+        "Пустельне узбережжя й нічні зірки",
+        "Кемпінги й невеликі готелі біля берега",
+        "Віддалене місце без натовпів"
+      ],
+      "image": "https://images.unsplash.com/photo-1757437061414-9d9611eafa88?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1504814532849-cff240bbc503?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1616036740257-9449ea1f6605?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1640617547871-15e4fb41d0c5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": false
+    },
+    {
+      "id": "zarautz",
+      "name": "Zarautz",
+      "countryId": "spain",
+      "city": "Сарауц",
+      "region": "Країна Басків",
+      "categoryId": "family-trip",
+      "shortDescription": "Довгий піщаний пляж, набережна й безпечні хвилі поруч із Сан-Себастьяном.",
+      "description": "Сарауц має один із найдовших пляжів Країни Басків, тож дітям і дорослим вистачає місця. Хвилі здебільшого зручні для навчання, а школи пропонують сімейні групи. Місто невелике, з прогулянковою набережною, а до Сан-Себастьяна близько 20 кілометрів.",
+      "coordinates": {
+        "lat": 43.28,
+        "lng": -2.17
+      },
+      "difficulty": 2,
+      "priceLevel": 2,
+      "bestMonths": [5, 6, 7, 8, 9, 10],
+      "features": [
+        "Довгий піщаний пляж для всієї родини",
+        "Школи з сімейними групами",
+        "Набережна й кафе біля пляжу",
+        "Близько до Сан-Себастьяна"
+      ],
+      "image": "https://images.unsplash.com/photo-1699883815037-d7d15e7aedb4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "gallery": [
+        "https://images.unsplash.com/photo-1674554981417-002b9dfb6666?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1647526232059-39165f4d1edc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        "https://images.unsplash.com/photo-1614885161718-e7a49f6b0928?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      ],
+      "featured": false
+    }
+  ]
+}
